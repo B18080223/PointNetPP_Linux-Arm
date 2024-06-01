@@ -1,0 +1,42 @@
+2024-05-26 13:45:51,269 - Model - INFO - PARAMETER ...
+2024-05-26 13:45:51,269 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=3, visual=True)
+2024-05-26 13:45:51,343 - Model - INFO - The number of test data is: 1
+2024-05-26 13:47:18,503 - Model - INFO - PARAMETER ...
+2024-05-26 13:47:18,503 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=3, visual=True)
+2024-05-26 13:47:18,562 - Model - INFO - The number of test data is: 1
+2024-05-26 13:48:15,264 - Model - INFO - PARAMETER ...
+2024-05-26 13:48:15,264 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=3, visual=True)
+2024-05-26 13:48:15,317 - Model - INFO - The number of test data is: 1
+2024-05-26 13:48:15,382 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-05-26 14:04:37,591 - Model - INFO - Mean IoU of pArea_3_dormitory_1: 0.8412
+2024-05-26 14:04:37,876 - Model - INFO - ------- IoU --------
+class plant, IoU: 0.688 
+class others, IoU: 0.995 
+
+2024-05-26 14:04:37,876 - Model - INFO - eval point avg class IoU: 0.841245
+2024-05-26 14:04:37,876 - Model - INFO - eval whole scene point avg class acc: 0.852556
+2024-05-26 14:04:37,876 - Model - INFO - eval whole scene point accuracy: 0.994663
+2024-05-26 15:01:49,339 - Model - INFO - PARAMETER ...
+2024-05-26 15:01:49,339 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=3, visual=True)
+2024-05-26 15:01:49,355 - Model - INFO - The number of test data is: 1
+2024-05-26 15:01:49,379 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-05-26 15:05:06,750 - Model - INFO - Mean IoU of pArea_3_dormitory_1: 0.7352
+2024-05-26 15:05:06,868 - Model - INFO - ------- IoU --------
+class plant, IoU: 0.508 
+class others, IoU: 0.962 
+
+2024-05-26 15:05:06,868 - Model - INFO - eval point avg class IoU: 0.735213
+2024-05-26 15:05:06,868 - Model - INFO - eval whole scene point avg class acc: 0.852727
+2024-05-26 15:05:06,868 - Model - INFO - eval whole scene point accuracy: 0.963794
+2024-05-26 16:00:35,009 - Model - INFO - PARAMETER ...
+2024-05-26 16:00:35,009 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=3, visual=True)
+2024-05-26 16:00:35,025 - Model - INFO - The number of test data is: 1
+2024-05-26 16:00:35,040 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-05-26 16:03:51,728 - Model - INFO - Mean IoU of pArea_3_dormitory_1: 0.7358
+2024-05-26 16:03:51,838 - Model - INFO - ------- IoU --------
+class plant, IoU: 0.509 
+class others, IoU: 0.963 
+
+2024-05-26 16:03:51,838 - Model - INFO - eval point avg class IoU: 0.735789
+2024-05-26 16:03:51,838 - Model - INFO - eval whole scene point avg class acc: 0.852739
+2024-05-26 16:03:51,838 - Model - INFO - eval whole scene point accuracy: 0.963945
